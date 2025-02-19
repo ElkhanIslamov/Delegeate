@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elkhan.islamov\\Desktop\\Delegate\\",
+  "WorkspaceRootPath": "C:\\Users\\elkhanmi\\Desktop\\New folder (2)\\Delegeate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80355E4F-6FBD-476E-9160-9BE6C3CD8D43}|Delegate\\Delegate.csproj|c:\\users\\elkhan.islamov\\desktop\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80355E4F-6FBD-476E-9160-9BE6C3CD8D43}|Delegate\\Delegate.csproj|c:\\users\\elkhanmi\\desktop\\new folder (2)\\delegeate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80355E4F-6FBD-476E-9160-9BE6C3CD8D43}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elkhan.islamov\\Desktop\\Delegate\\Delegate\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkhanmi\\Desktop\\New folder (2)\\Delegeate\\Delegate\\Program.cs",
               "RelativeDocumentMoniker": "Delegate\\Program.cs",
-              "ToolTip": "C:\\Users\\elkhan.islamov\\Desktop\\Delegate\\Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\elkhanmi\\Desktop\\New folder (2)\\Delegeate\\Delegate\\Program.cs",
               "RelativeToolTip": "Delegate\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:54:25.674Z",
               "EditorCaption": ""

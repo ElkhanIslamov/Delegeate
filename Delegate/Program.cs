@@ -1,4 +1,6 @@
-﻿namespace Delegate;
+﻿using static Delegate.Program;
+
+namespace Delegate;
 
 internal class Program
 {
@@ -17,35 +19,9 @@ internal class Program
         Console.WriteLine(new string('-',30));
         print.Invoke();
         Console.WriteLine(new string('-',30));
-        List<Developer> developers = [new("Ahmad", 1200), new("Tural", 1500)];
-        Func<Developer, bool> func = MyIndex;
-        Console.WriteLine(developers.IndexOf(d => d.Salary == 1200));
+        List<Developer> developers = [new("Ahmad", 1200), new("Tural", 1500)];           
         Console.WriteLine(developers.MyIndex(d => d.Salary == 1200));
        
-    }
-    public static class ExtentionMethods
-    {
-        public static int MyIndex(this List<Developer> developers, Func<Developer, bool> predicate)
-        {
-            for (int i = 0; i < developers.Count; i++)
-            {
-                if (predicate(developers[i]))
-                {
-                    return i;
-                }
-            }
-            return -1;
-        }
-     }
-    public class Developer
-    {
-        public Developer(string name, double salary)
-        {
-            Name = name;
-            Salary = salary;
-        }
-        public string Name { get; set; }
-        public double Salary { get; set; }
     }
     public static double CalculateCircle(int r, double p)
     {
@@ -71,6 +47,30 @@ internal class Program
     {
         Console.Write(" friend");
     }
+}
 
+public static class ExtentionMethods
+{
+    public static int MyIndex(this List<Developer> developers, Func<Developer, bool> predicate)
+    {
+        for (int i = 0; i < developers.Count; i++)
+        {
+            if (predicate(developers[i]))
+            {
+                return i;
+            }
+        }
+        return -1;
+    }
+}
 
+public class Developer
+{
+    public Developer(string name, double salary)
+    {
+        Name = name;
+        Salary = salary;
+    }
+    public string Name { get; set; }
+    public double Salary { get; set; }
 }
