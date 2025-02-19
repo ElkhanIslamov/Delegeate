@@ -1,0 +1,14 @@
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\Users\elkhan.islamov\Desktop\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
